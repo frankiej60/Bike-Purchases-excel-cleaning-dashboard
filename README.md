@@ -7,6 +7,6 @@ Excel project: The primary data used for this preprocessig is the excelprojects.
 
 ### Tools
 ---
-- My office software
+- Microsoft office software
     - [Download here](https://www.microsoft.com/en-us/microsoft-365/microsoft-office)
 
