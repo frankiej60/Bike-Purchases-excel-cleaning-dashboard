@@ -30,7 +30,7 @@ To enhance the quality and usability of the data, I undertook the following clea
 2. Conditional Column Creation
     - Implemented conditional column creation using the formula:
           =IF(L2>54,"Old", IF(L2>31,"Middleage",IF(L2 < 31, "Adolescent", "Invalid")))
-      This formula was used to categorize each individuals age into specific age ranges: "Old", "Middle Age", "Adolescent", or "Invalid".
+    - This formula was used to categorize each individuals age into specific age ranges: "Old", "Middle Age", "Adolescent", or "Invalid".
     - Purpose: To streamline age-related analysis in pivot tables.
 
 
