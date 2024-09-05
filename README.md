@@ -3,7 +3,7 @@
 ---
 ### Data source 
 ---
-The primary data used for the preprocessig is the excelprojects.xlsx file, containing detailed information about customers. The dataset includes various demographic and personal details of the customers. Below is an outline of the key steps and methodologies employed in this project.
+The primary data used for the preprocessig is the excelprojects.xlsx file, containing detailed information about customers. The dataset includes various demographic and personal details of the customers. Find an outline of the methodologies employed in this project below.
 
 ### Dataset overview
 ---
