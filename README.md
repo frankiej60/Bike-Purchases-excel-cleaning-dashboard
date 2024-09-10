@@ -8,20 +8,20 @@ The primary data used for the preprocessig is the excelprojects.xlsx file, conta
 ### Dataset overview
 ---
 The raw CSV data was based on multiple attributes including:
-    - Marital status
-    - Gender
-    - Income
-    - Children
-    - Education
-    - Occupation
-    - Car count
-    - Commute distance
-    - Region
-    - Age
+- Marital status
+- Gender
+- Income
+- Children
+- Education
+- Occupation
+- Car count
+- Commute distance
+- Region
+- Age
 
 ### Methodology
 ---
-To enhance the quality and usability of the data, I undertook the following cleaning operations:
+To enhance the quality and usability of the data, I carried out the following cleaning operations:
 
 1. Search and Replace Ambiguous Values
     - Resolved ambiguities in the representation of values.
