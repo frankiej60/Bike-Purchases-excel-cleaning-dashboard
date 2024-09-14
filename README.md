@@ -23,11 +23,11 @@ The raw CSV data was based on multiple attributes including:
 ---
 To enhance the quality and usability of the data, I carried out the following cleaning operations:
 
-1. Search and Replace Ambiguous Values
+1. Search and replace ambiguous values
     - Resolved ambiguities in the representation of values.
       Example: Replaced 'M' which stood for both 'Male' in the Gender column and 'Married' in the Marital Status column with clear and distinct identifiers.
    
-2. Conditional Column Creation
+2. Conditional column creation
     - Implemented conditional column creation using the formula:
           =IF(L2>54,"Old", IF(L2>31,"Middleage",IF(L2 < 31, "Adolescent", "Invalid")))
     - This formula was used to categorize each individuals age into specific age ranges: "Old", "Middle Age", "Adolescent", or "Invalid".
