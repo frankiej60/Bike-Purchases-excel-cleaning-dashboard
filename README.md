@@ -35,7 +35,7 @@ To enhance the quality and usability of the data, I carried out the following cl
 
 ### Outcome of EDA
 ---
-1.	Gender and purchases 	
+1.	Gender and Purchases 	
 - Males have a higher average income of 58,908 compared to females with 52,901.
 - Consequently, males purchase more bikes than females.
   
