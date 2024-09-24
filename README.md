@@ -19,6 +19,13 @@ The raw CSV data was based on multiple attributes including:
 - Region
 - Age
 
+### Outcome of EDA
+---
+
+
+
+
+
 ### Methodology
 ---
 To enhance the quality and usability of the data, I carried out the following cleaning operations:
